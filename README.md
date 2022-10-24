@@ -1,5 +1,6 @@
 # Smart Reading Gloves
-Team: Enrique Flores Medina, Tianyi Liu
+Team: Enrique Flores Medina, Tianyi Liu.
+
 EECS 149/249A Project Charter, Fall, 2022
 
 # Project Goal
