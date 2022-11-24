@@ -1,3 +1,7 @@
+To check if the text is correct, we use the tuto above to get a speech. 
+Otherwise we don't have these functions. 
+The file we need for the project is the main.m, which allows us to retrieve the text from a picture stored in google drive. 
+
 Version 1.0
 Summary:
 Converts text to speech.
