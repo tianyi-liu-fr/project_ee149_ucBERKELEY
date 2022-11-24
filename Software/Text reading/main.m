@@ -29,9 +29,10 @@ while true
     %       caUserInput = char(caUserInput); % Convert from cell to string.
     %       NET.addAssembly('System.Speech');
             %obj = System.Speech.Synthesis.SpeechSynthesizer;
-            obj.Volume = 100;
+            %obj.Volume = 100;
             %speak(obj, caUserInput);
-            tts(ocrResults.Text);
+            %tts(ocrResults.Text);
+            disp(recognizedText);
         end
 
 
