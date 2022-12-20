@@ -7,4 +7,4 @@ The images show a CAD of the PCB and of the real assembled PCB. The real assembl
 Footprint for the ESP32-CAM development board as ESP32-CAM.lbr, and footprint for the L7805 voltage regulator as L7805.lbr
 
 # Board, Schematic, and Gerbers
-Files for the PCB design are also shown. The pinout for the ESP32-CAM development board can be found in: https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/ 
+Files for the PCB design are shown as PCB.brd, PCB.sch, and Gerbers.zip. The pinout for the ESP32-CAM development board can be found in: https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/ 
