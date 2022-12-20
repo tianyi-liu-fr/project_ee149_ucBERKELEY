@@ -1,5 +1,6 @@
 # Code to capture and upload images to Google Drive
 A template source code to upload images to Google Drive using the ESP32-CAM board, found in the folder ESP32_GoogleDrive, was extracted from https://www.electroniclinic.com/esp32-cam-send-images-to-google-drive-iot-security-camera/. Copyright (c) 2022 Engr Fahad.
+
 Three external libraries are used in the source code:
 1. "esp_camera.h", which is the ESP32 camera driver. Copyright (c) 2015-2016 Espressif Systems (Shanghai) PTE LTD. License: https://github.com/espressif/esp32-camera
 2. "Base64.h", used to encode binary into base64 strings. Copyright (c) 2013 Adam Rudd. License: https://github.com/adamvr/arduino-base64 
