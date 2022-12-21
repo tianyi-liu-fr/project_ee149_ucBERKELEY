@@ -1,6 +1,12 @@
 # EECS149/249 Vision++ project
 Project developed by Enrique Flores Medina and Tianyi Liu, as conceptualized by PhD Prabal Dutta.
 
+<img
+  src="https://drive.google.com/uc?id=1Qfyw6MvRbeuS-uRAa79rVbIbS1rKRoyt"
+  alt="Alt text"
+  title="Logo"
+  style="display: centered; margin: 0 auto; max-width: 300px">
+
 Vision++ is a glove designed to empower low vision people, by turning any readable text into speech. By pressing a button, the glove captures an image. If it contains any text, it is automatically turned into speech through a smartphone app.
 
 # Hardware
@@ -11,9 +17,3 @@ The software folder contains the source code for the ESP32-CAM, which allows it 
 
 # Documentation
 The documentation folder includes the project proposal and two milestones, showing how the project started, how it progressed, and how it turned out in the end.
-
-<img
-  src="https://drive.google.com/uc?id=1Qfyw6MvRbeuS-uRAa79rVbIbS1rKRoyt"
-  alt="Alt text"
-  title="Logo"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
