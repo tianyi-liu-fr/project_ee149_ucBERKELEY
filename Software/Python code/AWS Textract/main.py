@@ -37,6 +37,7 @@ recogText = ''
 while True:
     # Constantly check for new images
     img = open(path, "rb").read()
+    # Extract text only when a new image is downloaded
     if(img == last_img):
         time.sleep(2)
     else:
