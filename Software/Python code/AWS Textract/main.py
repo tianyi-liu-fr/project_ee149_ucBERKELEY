@@ -31,9 +31,6 @@ file = gspread.authorize(credentials)
 sheet = file.open("vision_text")
 sheet = sheet.sheet1
 
-# Initialize variable to store recognized text
-recogText = ''
-
 while True:
     # Constantly check for new images
     img = open(path, "rb").read()
@@ -52,6 +49,9 @@ while True:
                     'Name': name
                 }
             }) 
+        
+        # Variable to store recognized text
+        recogText = ''
 
         # Print and store detected text
         print ('------------- Detected text -----------------')
