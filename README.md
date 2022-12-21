@@ -1,5 +1,6 @@
 # EECS149/249 Vision++ project
-[Logo](Logo - Black.png)
+![Logo](https://drive.google.com/uc?id=1c8ScOkzljNmnkonZHtm42wuoaOBQ8Lv4)
+
 Project developed by Enrique Flores Medina and Tianyi Liu, as conceptualized by PhD Prabal Dutta.
 
 Vision++ is a glove designed to empower low vision people, by turning any readable text into speech. By pressing a button, the glove captures an image. If it contains any text, it is automatically turned into speech through a smartphone app.
