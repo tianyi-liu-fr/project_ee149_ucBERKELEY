@@ -1,4 +1,4 @@
-# EECS149/249 Vision++ project
+# EECS149/249 VISION++ Project
 Project developed by Enrique Flores Medina and Tianyi Liu, as conceptualized by PhD Prabal Dutta.
 
 <img
