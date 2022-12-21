@@ -9,7 +9,7 @@ gauth = GoogleAuth()
 drive = GoogleDrive(gauth)
 
 # Folder ID to download images from
-folder = '1tF5At-fiS6HUrIEEOK33T1aCAytiAxSh'
+folder = 'input Google Drive folder ID'
 
 while True:
 	# Create a list of the files in the folder
