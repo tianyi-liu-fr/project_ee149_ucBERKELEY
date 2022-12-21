@@ -2,8 +2,8 @@
 <img
   src="https://drive.google.com/uc?id=1c8ScOkzljNmnkonZHtm42wuoaOBQ8Lv4"
   alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
+  title="Logo"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 Project developed by Enrique Flores Medina and Tianyi Liu, as conceptualized by PhD Prabal Dutta.
 
