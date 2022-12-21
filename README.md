@@ -6,8 +6,13 @@ Project developed by Enrique Flores Medina and Tianyi Liu, as conceptualized by 
   alt="Alt text"
   title="Logo"
   style="display: centered; margin: 0 auto; max-width: 300px">
+<img
+  src="https://drive.google.com/uc?id=1jnsUqaHwwDnRdzSVFaa2yaIbEZksRf5S"
+  alt="Alt text"
+  title="Logo"
+  style="display: centered; margin: 0 auto; max-width: 500px">
 
-Vision++ is a glove designed to empower low vision people, by turning any readable text into speech. By pressing a button, the glove captures an image. If it contains any text, it is automatically turned into speech through a smartphone app.
+Vision++ is a glove designed to empower low vision people, by turning any readable text into speech. By pressing a button, the glove captures an image. If it contains any text, it is automatically turned into speech through a smartphone app. Demonstration video: https://youtu.be/q09WU-yeQec
 
 # Hardware
 The hardware folder contains the files used to design a PCB and an enclosure. The ESP32-CAM development board was used, and a PCB and enclosure were designed to adjust to its capabilities.
