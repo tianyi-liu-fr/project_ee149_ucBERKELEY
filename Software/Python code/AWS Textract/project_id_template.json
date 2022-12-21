@@ -4,11 +4,11 @@
   "private_key_id": "input private key id",
   "private_key": "-----BEGIN PRIVATE KEY-----\n input private key \n-----END PRIVATE KEY-----\n",
   "client_email": "vision-sheets@visonplusplus.iam.gserviceaccount.com",
-  "client_id": "112143964729135292099",
+  "client_id": "input client id",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-sheets%40visonplusplus.iam.gserviceaccount.com"
 }
 
-# See README.md for a tutorial on how to download this file for any Google Cloud Project
+// See README.md for a tutorial on how to download this file for a Google Cloud Project
