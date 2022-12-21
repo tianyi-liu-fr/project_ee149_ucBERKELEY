@@ -1,6 +1,6 @@
 # EECS149/249 Vision++ project
 <img
-  src="https://drive.google.com/uc?id=1iQ2NpY32-DueSiYXx--myRKvJ5MuXoAd"
+  src="https://drive.google.com/uc?id=1Qfyw6MvRbeuS-uRAa79rVbIbS1rKRoyt"
   alt="Alt text"
   title="Logo"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
