@@ -3,13 +3,13 @@ Project developed by Enrique Flores Medina and Tianyi Liu, as conceptualized by 
 
 <img
   src="https://drive.google.com/uc?id=1Qfyw6MvRbeuS-uRAa79rVbIbS1rKRoyt"
-  alt="Alt text"
+  alt="Logo"
   title="Logo"
   style="display: centered; margin: 0 auto; max-width: 300px">
 <img
   src="https://drive.google.com/uc?id=1jnsUqaHwwDnRdzSVFaa2yaIbEZksRf5S"
-  alt="Alt text"
-  title="Logo"
+  alt="Device and app"
+  title="Device and app"
   style="display: centered; margin: 0 auto; max-width: 500px">
 
 Vision++ is a glove designed to empower low vision people, by turning any readable text into speech. By pressing a button, the glove captures an image. If it contains any text, it is automatically turned into speech through a smartphone app. Demonstration video: https://youtu.be/q09WU-yeQec
